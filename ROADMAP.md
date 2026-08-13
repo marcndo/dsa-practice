@@ -2,7 +2,7 @@
 
 Status: 🔲 not started · 🔄 in progress · ✅ proven (anchor complete)
 
-## Phase 0 — Foundations (Aug 11 – Aug 24)
+## Phase 0 — Foundations (Aug 11 – Aug 24)  🔄 
 - [ ] Core docs (proof_techniques.md, mathematical_foundations.md)
 - [ ] Arrays & Hashing
 - [ ] Sorting fundamentals (insertion, selection, bubble)
