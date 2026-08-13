@@ -1,7 +1,7 @@
 # Algorithmic-problem-solving - Algorithms, Derived and Proven from First Principles
 
 **Author:** Marcel Ambo Ndowah - Mathematics graduate | Software Engineer, 
-building toward Machine Learning
+building toward Machine Learning.
 [GitHub](https://github.com/marcndo) · [LinkedIn](https://linkedin.com/in/marcelndowah/)
 
 
