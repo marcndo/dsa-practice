@@ -82,25 +82,4 @@ linked lists (stated weak point), get core docs populated.
 - [ ] Mock interviews
 - [ ] Weak-area repair from logged gaps
 
----
 
-## Parallel tracks (not gated by phases above)
-
-- **Applications:** light applications ongoing from now (Aug), alongside 
-  mentor's problem sets. Not waiting for full canon completion.
-- **Mentor problem sets:** logged and classified (anchor/reinforcement/gap) 
-  as received — see mentor-problems.md (or a dated log section here) once 
-  the first set arrives.
-- **Open source:** starting September, once repo/portfolio is strong enough 
-  to also support part-time income work (Upwork) alongside continued study.
-- **Spaced re-derivation:** once every ~1-2 weeks, cold re-prove one anchor 
-  from 2+ weeks prior, no notes — logged here as a checklist item per cycle.
-
----
-
-## Known gaps / debt (revisit before considering a phase truly "done")
-
-- Selection sort inner-scan proof
-- Bubble sort proof
-- Move Zeroes formal proof (corrected code exists)
-- Two Sum II proof revision
