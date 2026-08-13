@@ -1,6 +1,4 @@
 # algorithmic-problem-solving - Algorithms, Derived and Proven from First Principles
-tering algorithmic problem solving - deriving and proving every solution from 
-first principles, not memorizing templates.
 
 **Author:** Marcel Ambo Ndowah - Mathematics graduate | Software Engineer, 
 building toward Machine Learning
@@ -62,17 +60,15 @@ work than a polished-looking dump.
 
 ## Method, in one paragraph
 
-For any new problem: (1) restate it in plain language, stripping jargon; 
-(2) hand-trace one concrete instance with no algorithm assumed, noticing 
-what work becomes unnecessary to repeat; (3) generalize that observation 
-into a loop invariant; (4) design the algorithm the invariant implies; 
-(5) prove initialization, maintenance, and termination; (6) implement and 
-test, including stress-testing against a brute-force reference where useful.
+For any new problem: 
+1 restate it in plain language, stripping jargon.
+2 hand-trace one concrete instance with no algorithm assumed, noticing 
+what work becomes unnecessary to repeat.
+3 generalize that observation into a loop invariant.
+4 design the algorithm the invariant implies.
+5 prove initialization, maintenance, and termination.
+6 implement and test, including stress-testing against a brute-force reference where useful.
 
 ## Contact
-
 * Email: ndowahmarcel@gmail.com
 
-* [GitHub](https://github.com/marcndo)
-
-* [LinkedIn](https://www.linkedin.com/in/marcelndowah/)
