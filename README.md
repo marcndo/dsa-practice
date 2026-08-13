@@ -1,4 +1,4 @@
-# algorithmic-problem-solving - Algorithms, Derived and Proven from First Principles
+# Algorithmic-problem-solving - Algorithms, Derived and Proven from First Principles
 
 **Author:** Marcel Ambo Ndowah - Mathematics graduate | Software Engineer, 
 building toward Machine Learning
