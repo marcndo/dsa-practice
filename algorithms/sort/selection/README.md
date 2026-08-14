@@ -12,5 +12,5 @@ The idea is to sort an array by repeatedly finding the smallest element and swap
 The algorithms uses fixed number of variables i, j and min_val,beyond the input itself. Mutation of the array is in-place. Since the variables never grows as the array size grows, we conclude that the array runs in constant space thus O(1) space complexity.
 
 ### Time Complexity
-Following similar analysis in [Proof of Insertion sort](../insertion/proof.md), the time complexity is O(n^2), where n is the size of the array.
+Following similar analysis in [Proof of Insertion sort](../insertion/README.md), the time complexity is O(n^2), where n is the size of the array.
 
