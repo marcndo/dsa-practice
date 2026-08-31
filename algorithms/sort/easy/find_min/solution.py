@@ -1,4 +1,16 @@
-"https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/"
+#method one
+def min_value(nums):
+    min_val = nums[-1]
+    l, r = 0, len(nums)-1
+    while l <= r:
+        m = (l+r) // 2
+        if nums[m] < min_val:
+            min_val = nums[m]
+            r = m - 1
+        else:
+            l = m + 1
+    return min_val
+
 
 def find_min(nums):
     left = 0 
@@ -11,4 +23,3 @@ def find_min(nums):
             right = mid 
     return nums[left]
 
-print(find_min([3, 4, 5, 1, 2, 0, -1, -10]))
